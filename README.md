@@ -1,5 +1,5 @@
 # Face-Recognition-System-
-roject Title: Face Recognition-Based Attendance System
+Project Title: Face Recognition-Based Attendance System
 Overview:
 This project automates the attendance process using facial recognition technology. Instead of manually marking attendance, the system captures student images via webcam, identifies them by matching with a pre-trained database, and logs their attendance into a CSV file.
 
